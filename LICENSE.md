@@ -9,7 +9,7 @@ You cannot:
 ❌ Charge others for access (unless you’re the original developer).
 
 Companies:
-💼 Must contact the developer (@you) to discuss paid options.
+💼 Must contact the developer (@RetroMaximus) to discuss paid options.
 Why?
 
 This keeps the software free for learners and fair for the creator.
