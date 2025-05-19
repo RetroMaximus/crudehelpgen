@@ -20,7 +20,7 @@ Just drop this script in your project! No dependencies needed (except Python 3.6
 ## Basic Usage
 
 ```python
-from help_generator import HelpFileGen
+from help_gen import HelpFileGen
 
 # For a single script
 help_gen = HelpFileGen("your_script.py")
